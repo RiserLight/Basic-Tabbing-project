@@ -1,0 +1,18 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.tab-headings{
+  display: flex;
+  background-color: gray;
+  justify-content:space-evenly ;
+}
+
+.tab-headings >div{
+  width: 33%;
+  border: 2px solid #aaa;
+  cursor:pointer;
+  
+}
+
